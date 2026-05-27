@@ -1,10 +1,10 @@
 <Solution>
   <Folder Name="/src/">
-    <Project Path="src\NuvTools.Blockchain\NuvTools.Blockchain.csproj" Type="C#" />
-    <Project Path="src\NuvTools.Blockchain.Azure\NuvTools.Blockchain.Azure.csproj" Type="C#" />
+    <Project Path="src\NuvTools.Blockchain\NuvTools.Blockchain.csproj" />
+    <Project Path="src\NuvTools.Blockchain.Azure\NuvTools.Blockchain.Azure.csproj" />
   </Folder>
   <Folder Name="/tests/">
-    <Project Path="tests\NuvTools.Blockchain.Azure.Test\NuvTools.Blockchain.Azure.Test.csproj" Type="C#" />
+    <Project Path="tests\NuvTools.Blockchain.Azure.Test\NuvTools.Blockchain.Azure.Test.csproj" />
   </Folder>
   <Properties Name="Configuration">
     <Property Name="Debug|Any CPU" />

@@ -6,8 +6,8 @@
 		<Authors>Nuv Tools</Authors>
 		<Copyright>Copyright © 2026 Nuv Tools</Copyright>
 		<PackageProjectUrl>https://nuvtools.com</PackageProjectUrl>
-		<Description>Core abstractions for blockchain ledger operations with support for multiple cloud providers.</Description>
-		<Version>10.0.0</Version>
+		<Description>Core abstractions for tamper-evident, append-only blockchain ledger operations with support for multiple cloud providers.</Description>
+		<Version>10.1.0</Version>
 		<GenerateDocumentationFile>True</GenerateDocumentationFile>
 		<EnforceCodeStyleInBuild>True</EnforceCodeStyleInBuild>
 		<PackageIcon>icon.png</PackageIcon>
@@ -18,7 +18,7 @@
 		<RepositoryType>git</RepositoryType>
 		<AnalysisLevel>latest</AnalysisLevel>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
-		<PackageTags>NuvTools Blockchain Ledger Cloud Abstraction</PackageTags>
+		<PackageTags>NuvTools Blockchain Ledger ConfidentialLedger Cloud Abstraction</PackageTags>
 		<ImplicitUsings>true</ImplicitUsings>
 		<Nullable>enable</Nullable>
 	</PropertyGroup>
